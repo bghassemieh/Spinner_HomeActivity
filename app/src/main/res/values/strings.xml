@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner_HomeActivity</string>
+    <string name="ed_price">Enter price here</string>
+    <string name="btn_calc">Calculate</string>
+    <string name="txt_enterPrice">Enter Price:</string>
+    <string name="edtxt_price">Enter price here</string>
+    <string name="txt_TIP">Enter tip:</string>
+    <string name="txt_result">Final result:</string>
+    <string name="txt_showResult">Show result</string>
+    <string-array name="colors_array">
+        <item>Great service - 25%</item>
+        <item>Normal Service - 20%</item>
+        <item>Not that great - 15%</item>
+        <item>Not good - 10%</item>
+    </string-array>
+</resources>
